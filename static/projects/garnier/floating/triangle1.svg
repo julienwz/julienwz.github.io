@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="78" height="78" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #c5c45a;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+        opacity: 0.25;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1230" y="1358" width="25" height="25" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fda557"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(-1229.5 -1357.5)" style="fill: none; filter: url(#filter)">
+    <path id="Polygone_1" data-name="Polygone 1" class="cls-1" d="M1242.49,1357.99l12.5,25.02h-25Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-1229.5 -1357.5)" xlink:href="#Polygone_1" style="stroke: #c5c45a; filter: none; fill: none"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93" height="93" viewBox="0 0 31 31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #b68cff;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+        opacity: 0.7;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="752" y="2312" width="30" height="30" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fda557"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(-751.5 -2311.5)" style="fill: none; filter: url(#filter)">
+    <path id="Rectangle_3_copie" data-name="Rectangle 3 copie" class="cls-1" d="M767,2342l-15-15,15-15,15,15Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-751.5 -2311.5)" xlink:href="#Rectangle_3_copie" style="stroke: #b68cff; filter: none; fill: none"/>
+</svg>
